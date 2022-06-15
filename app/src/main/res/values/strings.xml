@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">braintumor</string>
+    <string name="output">output</string>
+    <string name="predict">predict</string>
+    <string name="select">select</string>
+    <string name="brain_tumor_detection">Brain Tumor Detection</string>
+    <string name="todo">TODO</string>
+</resources>
